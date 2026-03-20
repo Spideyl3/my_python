@@ -1,39 +1,33 @@
 # 2026py
+深度学习笔记和知识图谱🚀
+欢迎来到我的深度学习学习仓库！这里记录了我系统学习深度学习（Deep Learning）的心路历程，主要以XMind思维导图的形式呈现，主题是从基础理论到前沿模型的知识点梳理。
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+📌 项目简介
+本项目通过每日打卡（Day-by-Day）的形式，详细记录了深度学习的核心概念。通过思维导图，你可以快速理清各个模型之间的逻辑关系以及算法的底层数学原理。
 
-#### 软件架构
-软件架构说明
+🗂内容大纲
+仓库中包含但不限于以下模块的深度学习笔记：
 
+神经网络基础：感知机、激活函数、损失函数、逆向传播。
 
-#### 安装教程
+结构神经网络 (CNN)： 角膜化层、池化层、经典网络架构（LeNet, AlexNet, ResNet 等）。
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+循环神经网络（RNN）：LSTM、GRU、序列建模。
 
-#### 使用说明
+注意力机制与 Transformer：Self-Attention 机制、Encoder-Decoder 架构。
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+优化算法：SGD、Momentum、Adam等优化器的原理与对比。
 
-#### 参与贡献
+模型评估与调优：过处理、正则化、评价指标（BLEU、准确度等）。
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+📂 文件说明
+README.md: 项目自述文件。
 
+dayX.xmind: 对应天数思维的导图文件（建议使用XMind软件打开调出最佳阅读体验）。
 
-#### 特技
+🛠 如何使用
+克隆本仓库：
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+巴什
+git clone https://github.com/你的用户名/仓库名.git
+查看笔记：使用XMind客户端打开对应的.xmind文件。
