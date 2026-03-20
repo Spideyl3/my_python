@@ -1,9 +1,3 @@
-
-Gemini said
-根据你上传的图片显示，你的仓库目前包含了一系列以 dayX.xmind 命名的深度学习思维导图文件。这种系统性的学习记录非常适合展示你的学习路径和知识体系。
-
-以下是为你设计的 README.md 模板，采用了清晰的 Markdown 格式，兼顾了专业感与可读性：
-
 Deep Learning Notes & Knowledge Maps 🚀
 欢迎来到我的深度学习学习仓库！这里记录了我系统学习深度学习（Deep Learning）的心路历程，主要以 XMind 思维导图 的形式呈现，涵盖了从基础理论到前沿模型的知识点梳理。
 
