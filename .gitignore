@@ -1,0 +1,47 @@
+# 忽略所有压缩包
+*.7z
+*.zip
+*.rar
+
+# 忽略所有模型权重 (深度学习核心体积)
+*.ckpt
+*.pth
+*.h5
+*.onnx
+*.weights
+
+# 忽略数据缓存和数据集
+*.npy
+*.csv
+*.bin
+.cache/
+
+# 忽略 PyCharm 和系统文件
+.idea/
+.venv/
+__pycache__/
+.DS_Store
+# 深度学习框架缓存
+.accelerate/
+.cache/
+.pytest_cache/
+.ipynb_checkpoints/
+# 忽略所有数据集和压缩包
+*.7z
+*.zip
+*.csv
+*.de
+*.en
+*.bpe
+*.dot
+*.png
+# 忽略 PyCharm 配置
+.idea/
+# 忽略所有图片文件（防止 archive 里的图片进仓库）
+*.jpg
+*.png
+*.jpeg
+
+# 忽略归档文件夹
+archive/
+training/
