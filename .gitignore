@@ -45,3 +45,32 @@ __pycache__/
 # 忽略归档文件夹
 archive/
 training/
+# 数据
+data/
+**/data/
+
+# 日志
+runs/
+**/runs/
+
+# 模型
+checkpoints/
+*.pt
+*.ckpt
+
+# 压缩包
+*.tar.gz
+*.zip
+
+# parquet
+*.parquet
+
+# 冲突文件
+*冲突文件*
+
+# IDE
+.idea/
+
+# 缓存
+__pycache__/
+.ipynb_checkpoints/
